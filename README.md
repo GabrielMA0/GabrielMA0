@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+me+chamo+Gabriel!;Seja+Bem+vindo(a)!)](https://git.io/typing-svg)
 
-- 🧑🏾‍💻 Atualmente trabalho como estagiário de T.I na empresa Adin
-- 📖 Cursando faculdade de Análise e Desenvolvimento de Sistemas na Uninove/noturno-presencial
+- 🧑🏾‍💻 Atualmente trabalho como estagiário de T.I na empresa [Adin](https://adin.com.br/home/#!)
+- 📖 Cursando faculdade de Análise e Desenvolvimento de Sistemas na [Uninove](https://www.uninove.br)
 - 💭 Estou me aperfeiçoando no JavaScript e após isso, irei para React
 - 🏙️ Moro em São Paulo/SP
 
@@ -11,7 +11,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMA0&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-### Minhas habilidade:
+### Minhas habilidades:
 <div style="display: inline_block">
   <img align="center" alt="Gab-JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
