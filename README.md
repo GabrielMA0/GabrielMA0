@@ -1,6 +1,6 @@
 ### Opa, beleza? Me chamo Gabriel! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Gabriel;Tenho+23+anos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Tenho+23+anos++;Seja+Bem+vindo(a)!)](https://git.io/typing-svg)
 
 - 🧑🏾‍💻 Atualmente trabalho como estagiário de T.I na empresa Adin
 - 📖 Cursando faculdade de Análise e Desenvolvimento de Sistemas na Uninove/noturno-presencial
