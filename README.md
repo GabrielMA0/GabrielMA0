@@ -1,16 +1,29 @@
-### Hi there 👋
+### Opa, beleza? Me chamo Gabriel! 👋
 
-<!--
-**GabrielMA0/GabrielMA0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 23 anos e estou em buscar de me aperfeiçoar na programação!
 
-Here are some ideas to get you started:
+- 🧑🏾‍💻 Atualmente trabalho como estagiário de T.I na empresa Adin
+- 📖 Cursando faculdade de Análise e Desenvolvimento de Sistemas na Uninove/noturno-presencial
+- 💭 Estou me aperfeiçoando no JavaScript e após isso, irei para React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/GabrielMA0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMA0&_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMA0&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/389160035529261056/1047903148829839491/ezgif-5-9663b390b5.gif">
+</div>
+
+  ##
+  
+  <div> 
+  <a href = "mailto:moreira.araujo99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-m-araujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
