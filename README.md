@@ -1,6 +1,4 @@
-### Opa, beleza? Me chamo Gabriel! 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Tenho+23+anos++;Seja+Bem+vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+me+chamo+Gabriel!;Seja+Bem+vindo(a)!)](https://git.io/typing-svg)
 
 - 🧑🏾‍💻 Atualmente trabalho como estagiário de T.I na empresa Adin
 - 📖 Cursando faculdade de Análise e Desenvolvimento de Sistemas na Uninove/noturno-presencial
@@ -12,8 +10,10 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GabrielMA0&_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMA0&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  
+
+  <div align="center">
 ### Minhas habilidades:
+  </div>
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
