@@ -7,6 +7,8 @@
 - 💭 Estou me aperfeiçoando no JavaScript e após isso, irei para React
 - 🏙️ Moro em São Paulo/SP
 
+##
+
 ### Meus Status:
 
 <div align="center">
@@ -14,6 +16,8 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GabrielMA0&_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMA0&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
+  ##
 
 ### Minhas habilidades:
 <div style="display: inline_block">
