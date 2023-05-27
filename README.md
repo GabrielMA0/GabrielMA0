@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+me+chamo+Gabriel!;Seja+Bem+vindo(a)!)](https://git.io/typing-svg)
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=GabrielMA0&style=flat-square&color=blue" alt=""></p>
+
 - 👨🏾‍💻 Atualmente trabalho como estagiário de T.I na empresa [Adin](https://adin.com.br/home/#!)
 - 📖 Cursando faculdade de Análise e Desenvolvimento de Sistemas na [Uninove](https://www.uninove.br)
 - 💭 Estou me aperfeiçoando no JavaScript e após isso, irei para React
