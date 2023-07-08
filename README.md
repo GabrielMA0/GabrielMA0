@@ -25,9 +25,9 @@
   <img align="center" alt="ICON-JAVASCRIPT" title="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ICON-HTML" title="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ICON-CSS" title="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ICON-Sass" title="SASS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" />
   <img align="center" alt="ICON-BOOTSTRAP" title="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="center" alt="ICON-WebFlow" title="CMS-Webflow" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/webflow_logo_icon_169218.png" />
-  <img align="center" alt="ICON-Sass" title="SASS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" />
   <img align="right" alt="Gab-pic" height="150" style="border-radius:50px;" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif">      
 </span>
   
