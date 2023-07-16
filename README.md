@@ -34,7 +34,7 @@
   ### Estou Aprendendo:
 <div style="display: inline_block">
 <img align="center" alt="ICON-REACT" title="React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img align="center" alt="ICON-REACT" title="React" height="30" width="30"src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Wordpress_logo_8.png" />
+<img align="center" alt="ICON-WORDPRESS" title="Wordpress" height="30" width="30"src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Wordpress_logo_8.png" />
 </div>
   
   ##
