@@ -4,7 +4,7 @@
 
 - 👨🏾‍💻 Atualmente trabalho como estagiário de T.I na empresa [Adin](https://adin.com.br/home/#!)
 - 📖 Cursando faculdade de Análise e Desenvolvimento de Sistemas na [Uninove](https://www.uninove.br)
-- 💭 Estou me aperfeiçoando no JavaScript e após isso, irei para React
+- 💭 Estou estudando Vue e após isso, irei para React
 - 🏙️ Moro em São Paulo/SP
 
 ##
