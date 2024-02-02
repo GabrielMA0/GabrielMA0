@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=GabrielMA0&style=flat-square&color=blue" alt=""></p>
 
-- 👨🏾‍💻 Atualmente trabalho como estagiário de T.I na empresa [Adin](https://adin.com.br/home/#!)
+- 👨🏾‍💻 Atualmente trabalho como Desenvolvedor Front-end na empresa [Adin](https://adin.com.br/home/#!)
 - 📖 Cursando faculdade de Análise e Desenvolvimento de Sistemas na [Uninove](https://www.uninove.br)
 - 💭 Estou estudando React
 - 🏙️ Moro em São Paulo/SP
