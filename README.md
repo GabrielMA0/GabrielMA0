@@ -26,16 +26,18 @@
   <img align="center" alt="ICON-CSS" title="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ICON-Sass" title="SASS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" />
   <img align="center" alt="ICON-Bootstrap" title="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img align="center" alt="ICON-Styled-component" title="Styled-component" height="40" width="40" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*N0XV3gco7Ed4brMoxwdjVg.png" />
   <img align="center" alt="ICON-Javascript" title="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ICON-Knockoutjs" title="Knockoutjs" height="40" width="40" src="https://www.sattvasystem.com/wp-content/themes/sattva/assets/images/home/frontend-technology/knockoutjs.svg">
   <img align="center" alt="ICON-VUE" title="Vue" height="30" width="30"src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
+  <img align="center" alt="ICON-REACT" title="React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="ICON-WebFlow" title="Webflow" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/webflow_logo_icon_169218.png" />
-  <img align="right" alt="Gab-pic" height="150" style="border-radius:50px;" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif">      
+  <img align="center" alt="ICON-Figma" title="Figma" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" />
+  <img align="right" alt="Gab-pic" height="150" style="border-radius:50px;" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif">   
 </span>
   
   ### Estou Aprendendo:
 <div style="display: inline_block">
-<img align="center" alt="ICON-REACT" title="React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align="center" alt="ICON-WORDPRESS" title="Wordpress" height="30" width="30"src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Wordpress_logo_8.png" />
 </div>
   
