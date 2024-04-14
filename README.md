@@ -36,11 +36,6 @@
   <img align="right" alt="Gab-pic" height="150" style="border-radius:50px;" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif">   
 </span>
   
-  ### Estou Aprendendo:
-<div style="display: inline_block">
-<img align="center" alt="ICON-WORDPRESS" title="Wordpress" height="30" width="30"src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Wordpress_logo_8.png" />
-</div>
-  
   ##
   
   ### Contato:
