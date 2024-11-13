@@ -28,6 +28,7 @@
   <img align="center" alt="ICON-Bootstrap" title="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="center" alt="ICON-Styled-component" title="Styled-component" height="40" width="40" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*N0XV3gco7Ed4brMoxwdjVg.png" />
   <img align="center" alt="ICON-Javascript" title="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ICON-Javascript" title="Nodejs" height="40" width="40" src="https://img.icons8.com/?size=256&id=54087&format=png">
   <img align="center" alt="ICON-Knockoutjs" title="Knockoutjs" height="40" width="40" src="https://www.sattvasystem.com/wp-content/themes/sattva/assets/images/home/frontend-technology/knockoutjs.svg">
   <img align="center" alt="ICON-VUE" title="Vue" height="30" width="30"src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
   <img align="center" alt="ICON-REACT" title="React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
