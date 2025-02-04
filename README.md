@@ -4,7 +4,7 @@
 
 - 👨🏾‍💻 Atualmente trabalho como Desenvolvedor Front-end na empresa [Adin](https://adin.com.br/home/#!)
 - 📖 Graduado em Análise e Desenvolvimento de Sistemas na [Uninove](https://www.uninove.br)
-- 💭 Estou estudando Angular e Typescript
+- 💭 Estou estudando Typescript
 - 🏙️ Moro em São Paulo/SP
 
 ##
