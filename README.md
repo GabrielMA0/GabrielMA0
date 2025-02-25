@@ -32,8 +32,8 @@
   <img align="center" alt="ICON-Knockoutjs" title="Knockoutjs" height="40" width="40" src="https://www.sattvasystem.com/wp-content/themes/sattva/assets/images/home/frontend-technology/knockoutjs.svg">
   <img align="center" alt="ICON-VUE" title="Vue" height="30" width="30"src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
   <img align="center" alt="ICON-REACT" title="React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="ICON-WebFlow" title="Webflow" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/webflow_logo_icon_169218.png" />
-  <img align="center" alt="ICON-Figma" title="Figma" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" />
+  <img align="center" alt="ICON-WebFlow" title="Webflow" height="40" width="40" src="https://img.icons8.com/?size=512&id=ktrJ12qa5f65&format=png" />
+  <img align="center" alt="ICON-Figma" title="Figma" height="40" width="40" src="https://static-00.iconduck.com/assets.00/apps-figma-icon-1024x1024-cb4t8vyj.png" />
   <img align="right" alt="Gab-pic" height="150" style="border-radius:50px;" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif">   
 </span>
   
