@@ -25,14 +25,14 @@
   <img align="center" alt="ICON-Sass" title="SASS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" />
   <img align="center" alt="ICON-Bootstrap" title="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="center" alt="ICON-Styled-component" title="Styled-component" height="40" width="40" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*N0XV3gco7Ed4brMoxwdjVg.png" />
+  <img align="center" alt="ICON-Tailwind" title="Tailwind" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png"/>
   <img align="center" alt="ICON-Javascript" title="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ICON-Typescript" title="Typescript" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png">
   <img align="center" alt="ICON-Nodejs" title="Nodejs" height="40" width="40" src="https://img.icons8.com/?size=256&id=54087&format=png">
-  <img align="center" alt="ICON-Knockoutjs" title="Knockoutjs" height="40" width="40" src="https://rohithpr.com/images/knockout.png">
   <img align="center" alt="ICON-VUE" title="Vue" height="30" width="30"src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
   <img align="center" alt="ICON-REACT" title="React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="ICON-WebFlow" title="Webflow" height="40" width="40" src="https://img.icons8.com/?size=512&id=ktrJ12qa5f65&format=png" />
-  <img align="center" alt="ICON-Figma" title="Figma" height="40" width="40" src="https://static-00.iconduck.com/assets.00/apps-figma-icon-1024x1024-cb4t8vyj.png" />
+  <img align="center" alt="ICON-Figma" title="Figma" height="40" width="40" src="https://images.icon-icons.com/2429/PNG/512/figma_logo_icon_147289.png" />
   <img align="right" alt="Gab-pic" height="150" style="border-radius:50px;" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif">   
 </span>
   
