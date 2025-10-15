@@ -4,6 +4,7 @@
 
 - 📖 Graduado em Análise e Desenvolvimento de Sistemas na [Uninove](https://www.uninove.br)
 - 🏙️ Moro em São Paulo/SP
+- 👨🏽‍💻 Trabalho na econverse: https://www.econverse.com.br
 
 ##
 
