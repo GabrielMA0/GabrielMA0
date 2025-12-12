@@ -2,12 +2,12 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=GabrielMA0&style=flat-square&color=blue" alt=""></p>
 
-- 📖 Graduado em Análise e Desenvolvimento de Sistemas na [Uninove](https://www.uninove.br)
-- 🏙️ Moro em São Paulo/SP
+- 📖 Graduate in Systems Analysis and Development from [Uninove](https://www.uninove.br)
+- 🏙️ I live in São Paulo/SP – Brazil
 
 ##
 
-### Meus Status:
+### My Statuses:
 
 <div align="center">
   <a href="https://github.com/GabrielMA0">
@@ -17,7 +17,7 @@
   
   ##
 
-### Minhas habilidades:
+### My Skills:
 
 <span style="display: inline-block;">
   <img align="center" alt="ICON-HTML" title="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -39,7 +39,7 @@
   
   ##
   
-  ### Contato:
+  ### Contact:
   
   <div> 
   <a href = "mailto:moreira.araujo99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
