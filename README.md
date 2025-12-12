@@ -31,7 +31,7 @@
   <img align="center" alt="ICON-Nodejs" title="Nodejs" height="40" width="40" src="https://img.icons8.com/?size=256&id=54087&format=png">
   <img align="center" alt="ICON-VUE" title="Vue" height="30" width="30"src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
   <img align="center" alt="ICON-REACT" title="React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="ICON-Next" title="Figma" height="40" width="40" src="https://images.icon-icons.com/2389/PNG/512/next_js_logo_icon_145038.png" />
+  <img align="center" alt="ICON-Next" title="Next" height="40" width="40" src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" />
   <img align="center" alt="ICON-WebFlow" title="Webflow" height="40" width="40" src="https://img.icons8.com/?size=512&id=ktrJ12qa5f65&format=png" />
   <img align="center" alt="ICON-Figma" title="Figma" height="40" width="40" src="https://images.icon-icons.com/2429/PNG/512/figma_logo_icon_147289.png" />
   <img align="right" alt="Gab-pic" height="150" style="border-radius:50px;" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif">
