@@ -4,16 +4,6 @@
 
 - 📖 Graduate in Systems Analysis and Development from [Uninove](https://www.uninove.br)
 - 🏙️ I live in São Paulo/SP – Brazil
-
-##
-
-### My Statuses:
-
-<div align="center">
-  <a href="https://github.com/GabrielMA0">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GabrielMA0&_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMA0&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
   
   ##
 
